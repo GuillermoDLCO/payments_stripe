@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577648563083",
+    "firebase_url": "https://payments-c5ac7.firebaseio.com",
+    "project_id": "payments-c5ac7",
+    "storage_bucket": "payments-c5ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577648563083:android:e6fed767028284a3d9958e",
+        "android_client_info": {
+          "package_name": "com.example.mastering_payments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577648563083-c10uomhh8rhuomshib6ar7644ljvbtfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiZkLIHf745gDDlthaCpts_liBYCzBCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577648563083-c10uomhh8rhuomshib6ar7644ljvbtfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
