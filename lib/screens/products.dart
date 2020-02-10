@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mastering_payments/models/product.dart';
 import 'package:mastering_payments/provider/user_provider.dart';
-import 'package:mastering_payments/screens/login1.dart';
-import 'package:mastering_payments/services/functions.dart';
 import 'package:mastering_payments/services/styles.dart';
-import 'package:mastering_payments/widgets/custom_text.dart';
 import 'package:mastering_payments/widgets/product_card.dart';
 import 'package:provider/provider.dart';
 

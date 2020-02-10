@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mastering_payments/provider/payment_provider.dart';
 import 'package:mastering_payments/provider/user_provider.dart';
 import 'package:mastering_payments/screens/home.dart';
 import 'package:mastering_payments/screens/login1.dart';

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mastering_payments/provider/payment_provider.dart';
 import 'package:mastering_payments/provider/user_provider.dart';
 import 'package:mastering_payments/screens/login1.dart';
 import 'package:mastering_payments/screens/products.dart';
@@ -37,11 +36,11 @@ class _HomeScreenState extends State<HomeScreen> {
           children: <Widget>[
             UserAccountsDrawerHeader(
               accountEmail: CustomText(
-                msg: "Santos@enoque.com",
+                msg: "guillermo@outlook.com",
                 color: white,
               ),
               accountName: CustomText(
-                msg: "Santos Enoque",
+                msg: "Guillermo De La Cruz",
                 color: white,
               ),
             ),
